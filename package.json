@@ -1,0 +1,14 @@
+{
+  "name": "replace-in-file-after-plugin",
+  "version": "1.0.0",
+  "description": "a webpack plugin for replace string in file after webpack building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emmachen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
